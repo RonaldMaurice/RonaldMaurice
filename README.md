@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Ronald Maurice Acuña Montero
 
-<!--
-**RonaldMaurice/RonaldMaurice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Ingeniero en Sistemas Computacionales**  
+💼 Apasionado por el desarrollo de software, bases de datos y administración de sistemas.  
+🚀 Actualmente aprendiendo y mejorando mis habilidades en **Git, GitHub** y proyectos colaborativos.
 
-Here are some ideas to get you started:
+## 🔧 Tecnologías y herramientas
+- Lenguajes básicos: HTML, CSS, C++, Python, Java, JavaScript, Kotlin, SQL.
+- Bases de datos: MARC21, KOHA, MySQL.
+- Herramientas: Git, GitHub, Visual Studio Code, Packet Tracer, Android Studio, Thunderbird, Inkscape.
+- Otros: Soporte técnico, Gestión de proyectos, Documentación técnica, Redes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Conecta conmigo
+- LinkedIn: (https://www.linkedin.com/in/ronald-maurice)  
+- Email: ronald47.maurice@gmail.com
