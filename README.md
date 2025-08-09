@@ -8,7 +8,7 @@
 - Lenguajes básicos: HTML, CSS, C++, Python, Java, JavaScript, Kotlin, SQL.
 - Bases de datos: MARC21, KOHA, MySQL.
 - Herramientas: Git, GitHub, Visual Studio Code, Packet Tracer, Android Studio, Thunderbird, Inkscape.
-- Otros: Soporte técnico, Gestión de proyectos, Documentación técnica, Redes.
+- Otras: Soporte técnico, Gestión de proyectos, Documentación técnica, Redes.
 
 ## 📫 Conecta conmigo
 - LinkedIn: (https://www.linkedin.com/in/ronald-maurice)  
