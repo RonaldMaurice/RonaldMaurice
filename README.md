@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy Ronald Maurice Acuña Montero
 
 🎓 **Ingeniero en Sistemas Computacionales**  
-💼 - Enfocado en desarrollar soluciones de software y web, gestionar bases de datos MySQL, brindar soporte técnico y administrar redes.
-🚀 - Actualmente aprendiendo y mejorando mis habilidades en **Git, GitHub** y proyectos colaborativos.
+- Enfocado en desarrollar soluciones de software y web, gestionar bases de datos MySQL, brindar soporte técnico y administrar redes.
+- Actualmente aprendiendo y mejorando mis habilidades en **Git, GitHub** y proyectos colaborativos.
 
 ## 🔧 Tecnologías y herramientas
 - Lenguajes básicos: HTML, CSS, C++, Python, Java, JavaScript, Kotlin, SQL.
